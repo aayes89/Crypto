@@ -11,7 +11,7 @@ import javax.swing.JFileChooser;
 public class Decrypt {
 
     // Define la clave secreta fija (ideal)
-    private static final String secretKey = "es";
+    private static final String secretKey = "estaesmiclavesecretaparacifrados";
 
     public static void main(String[] args) {
         try {
